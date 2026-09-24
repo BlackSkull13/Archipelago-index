@@ -170,6 +170,9 @@
 [budokai3]
 "0.2.3" = "b52ebb96dc08239874efe7f20458e7a81c59ea30af1c13bf2bbaa55f0d5e05bf"
 
+[build_a_jetpack]
+"0.2.0" = "430bcffce53010e1779a659c0e70d78691cd07d70d5f6ebc7b6eef2ad3d61b46"
+
 [burger_shop]
 "0.3.2" = "d0de39f2cd07158c39fa6232e575916e66c8278fa383c5bf3d23ab780fb01915"
 
